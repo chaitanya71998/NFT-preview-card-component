@@ -52,6 +52,10 @@ body {
   font-size: 22px;
   color: hsl(0, 0%, 100%);
   margin-bottom: 14px;
+  cursor: pointer;
+}
+.nft-heading:hover {
+  color: hsl(178, 100%, 50%);
 }
 .nft-description {
   margin: 0px;
@@ -108,6 +112,7 @@ body {
   color: #e2ebfa;
   margin-left: 4px;
   font-size: 15px;
+  cursor: pointer;
 }
 .creator-name:hover {
   color: #33d4dc;
